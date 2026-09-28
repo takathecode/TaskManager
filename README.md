@@ -47,5 +47,4 @@ O Tkinter é utilizado para construir a interface gráfica da aplicação, enqua
 TaskManager/
 │
 ├── main.py
-├── tarefas.json
 └── README.md
